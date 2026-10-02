@@ -7,3 +7,7 @@ title = "关于"
 这个博客用于记录研究中的思考、工具使用经验，以及日常生活中的观察。
 
 这里的文章会随着我的理解不断补充和修订。
+
+## 联系方式
+
+邮箱：[jiaminglan556@gmail.com](mailto:jiaminglan556@gmail.com)

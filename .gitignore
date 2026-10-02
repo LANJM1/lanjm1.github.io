@@ -2,3 +2,7 @@
 /resources/_gen/
 /.hugo_build.lock
 .DS_Store
+
+theme-backup/
+.DS_Store
+**/.DS_Store

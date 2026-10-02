@@ -1,26 +1,26 @@
 baseURL = "https://lanjm1.github.io/"
+defaultContentLanguage = "zh"
+locale = "zh-Hans"
 title = "Jiaming.log"
-locale = "zh-CN"
-theme = "hugo-bearblog"
+theme = "dream"
 
 hasCJKLanguage = true
 enableRobotsTXT = true
 
 [params]
+  lightTheme = "emerald"
+  darkTheme = "forest"
+
+  author = "Jiaming"
+  avatar = "img/personal/avatar.jpg"
   description = "记录研究、工具、阅读与生活。"
-  dateFormat = "2006-01-02"
+  headerTitle = "Jiaming.log"
 
-[[menus.main]]
-  name = "首页"
-  pageRef = "/"
-  weight = 10
+  siteStartYear = 2026
 
-[[menus.main]]
-  name = "文章"
-  pageRef = "/blog"
-  weight = 20
+  stickyNav = true
+  reorderNavItems = ["about", "search", "posts", "categories", "tags"]
 
-[[menus.main]]
-  name = "关于"
-  pageRef = "/about"
-  weight = 30
+  showTableOfContents = true
+  imageZoomableInPost = true
+  showPrevNextPost = true
